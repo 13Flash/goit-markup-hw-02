@@ -2,11 +2,15 @@
   background-color: #f4f4fd;
 }
 
-.team li {
+.team-card {
   background-color: #ffffff;
 }
 
-.team .block-title,
+.team .block-title {
+  text-align: center;
+}
+
 .team .block-text {
   text-align: center;
+  color: #434455;
 }
